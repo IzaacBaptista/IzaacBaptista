@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 -->
+- 🔭 I intend to be a fullstack developer
 - 🔭 I’m a student of systems analysis and development
-- 🌱 I’m currently learning C, C#, C++, Java, PHP, Javascript
+- 🌱 I’m currently learning C, C#, C++, Java, PHP, Javascript, HTML and CSS
 
 </br>
 
