@@ -1,44 +1,29 @@
-### Hi there 👋
+# Jackson Machado
 
-<!--
-**IzaacBaptista/IzaacBaptista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IzaacBaptista)](https://github.com/IzaacBaptista)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izaac-baptista-78562311b/)](https://www.linkedin.com/in/izaac-baptista-78562311b/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+47+991976600&text=Hello!)](https://api.whatsapp.com/send?phone=55+47+991976600&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:izaacbaptista@gmail.com)](izaacbaptista@gmail.com)
 
+## Hi there 👋
+I'm Izaac Baptista, I am currently a student of Systems Analysis and Development. In addition to college, I study English, take courses in SQL Database, Javascript (Node and Web), Logic and fundamentals with Java and C #.
+
+
+## 👨🏻‍💻 About me 
 Here are some ideas to get you started:
--->
-- :man_technologist: I intend to be a fullstack developer
+
 - 🔭 I’m a student of systems analysis and development
 - 🌱 I’m currently learning C, C#, C++, Java, PHP, Javascript, HTML and CSS
+- :rainbow: I'm interests on DevOps (tools, lifecycle and culture)
+- :man_technologist: I intend to be a fullstack developer
 
-</br>
+## 🛠 Tech Stack
 
----
+- 💻 C | C++ | Java | C# | PHP
+- 🌐 HTML | CSS | JavaScript | TypeScript | Bootstrap | JQuery | NodeJS | Express | TypeORM | GraphQL | Apollo | React | ReactNative | Angular | Flutter
+- 🛢 MySQL | Postgresql | Oracle | DB2 | MSSQL
+- 🔧 Visual Studio Code | Git
 
-### Connect with me:
+[![jacksjm's github stats](https://github-readme-stats.vercel.app/api?username=V&show_icons=true&hide=["contribs","issues"])](https://github.com/IzaacBaptista)
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-</br>
-
----
-
-### Language and Tools: 
-
- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
- <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
- <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
- <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-</br>
-
----
-
-<img align="left" alt="IzaacBaptista Top languages card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaacBaptista&theme=dark" />
-
-</br></br></br></br></br></br></br></br></br></br>
-
-[linkedin]: https://www.linkedin.com/in/izaac-baptista-78562311b/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V&show_icons=true)](https://github.com/IzaacBaptista/github-readme-stats)
