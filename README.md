@@ -36,13 +36,6 @@ Here are some ideas to get you started:
 </br>
 </br>
 
----
-## Statistics
-
-<img align="left" alt="IzaacBaptista GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IzaacBaptista&show_icons=true&theme=dark" />
-
-</br></br></br></br></br></br></br></br></br></br>
-
 <img align="left" alt="IzaacBaptista Top languages card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaacBaptista&theme=dark" />
 
 </br></br></br></br></br></br></br></br></br></br>
