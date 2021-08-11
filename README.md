@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - 🛢 MySQL | Postgresql | Oracle | DB2 | MSSQL
 - 🔧 Visual Studio Code | Git
 
-[![jacksjm's github stats](https://github-readme-stats.vercel.app/api?username=V&show_icons=true&hide=["contribs","issues"])](https://github.com/IzaacBaptista)
+[![IzaacBaptista github stats](https://github-readme-stats.vercel.app/api?username=V&show_icons=true&hide=["contribs","issues"])](https://github.com/IzaacBaptista)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V&show_icons=true)](https://github.com/IzaacBaptista/github-readme-stats)
