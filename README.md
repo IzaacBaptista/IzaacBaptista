@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ## 🛠 Tech Stack
 
 - 💻 C | C++ | Java | C# | PHP
-- 🌐 HTML | CSS | JavaScript | TypeScript | Bootstrap | JQuery | NodeJS | Express | TypeORM | GraphQL | Apollo | React | ReactNative | Angular | Flutter
+- 🌐 HTML | CSS | JavaScript | TypeScript | Bootstrap | JQuery | NodeJS | Express | Laravel | GraphQL | Apollo | React | ReactNative | Angular | Flutter | Vue.js
 - 🛢 MySQL | Postgresql | Oracle | DB2 | MSSQL
-- 🔧 Visual Studio Code | Git
+- 🔧 Visual Studio Code | Git | Figma
 
 [![IzaacBaptista github stats](https://github-readme-stats.vercel.app/api?username=izaacbaptista&show_icons=true&hide=["contribs","issues"])](https://github.com/IzaacBaptista)
  
