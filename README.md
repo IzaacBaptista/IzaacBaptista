@@ -8,22 +8,22 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:izaacbaptista@gmail.com)](izaacbaptista@gmail.com)
 
 ## Hi there 👋
-I'm Izaac Baptista, I am currently a student of Systems Analysis and Development. In addition to college, I study English, take courses in SQL Database, Javascript (Node and Web), Logic and fundamentals with Java and C #.
+I'm Izaac Baptista, I am currently a student of Systems Analysis and Development. In addition to college, I study English, take courses in SQL Database, Javascript (Node, Web and Mobile), Logic and fundamentals with Java and C#, Java e PHP.
 
 
 ## 👨🏻‍💻 About me 
 Here are some ideas to get you started:
 
 - 🔭 I’m a student of systems analysis and development
-- 🌱 I’m currently learning C, C#, C++, Java, PHP, Javascript, HTML and CSS
+- 🌱 I’m currently learning PHP, Laravel, Javascript, Vue.js, HTML and CSS
 - :rainbow: I'm interests on DevOps (tools, lifecycle and culture)
-- :man_technologist: I intend to be a fullstack developer
+- :man_technologist: I intend to be a fullstack web developer
 
 ## 🛠 Tech Stack
 
 - 💻 C | C++ | Java | C# | PHP
 - 🌐 HTML | CSS | JavaScript | TypeScript | Bootstrap | JQuery | NodeJS | Express | Laravel | GraphQL | Apollo | React | ReactNative | Angular | Flutter | Vue.js
-- 🛢 MySQL | Postgresql | Oracle | DB2 | MSSQL
+- 🛢 MySQL | Postgresql | Oracle | DB2 | MSSQL | MongoDB
 - 🔧 Visual Studio Code | Git | Figma
 
 [![IzaacBaptista github stats](https://github-readme-stats.vercel.app/api?username=izaacbaptista&show_icons=true&hide=["contribs","issues"])](https://github.com/IzaacBaptista)
