@@ -8,14 +8,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:izaacbaptista@gmail.com)](izaacbaptista@gmail.com)
 
 ## Hi there 👋
-I'm Izaac Baptista, I am currently a student of Systems Analysis and Development. In addition to college, I study English, take courses in SQL Database, Javascript (Node, Web and Mobile), Logic and fundamentals with Java and C# e PHP.
+I'm Izaac Baptista, I am currently a student of Systems Analysis and Development. In addition to college, I study English, take courses in SQL Database, Javascript (Node, React and React Native), Logic and fundamentals with Java, C# e PHP.
 
 
 ## 👨🏻‍💻 About me 
 Here are some ideas to get you started:
 
 - 🔭 I’m a student of systems analysis and development
-- 🌱 I’m currently learning PHP, Laravel, Javascript, Vue.js, HTML and CSS
+- 🌱 I’m currently learning PHP, Laravel, Javascript, Vue.js, HTML and CSS, Bootstrap
 - :rainbow: I'm interests on DevOps (tools, lifecycle and culture)
 - :man_technologist: I intend to be a fullstack web developer
 
