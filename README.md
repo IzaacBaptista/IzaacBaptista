@@ -1,11 +1,12 @@
 
 ## 👨🏻‍💻 About me 
-Here are some ideas to get you started:
+#### Here are some ideas to get you started:
 
 - 🔭 I’m a student of systems analysis and development
 - 🌱 I’m currently learning PHP and Javscript
 - :rainbow: I'm interests on DevOps (tools, lifecycle and culture)
 - :man_technologist: I intend to be a fullstack web developer
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izaac-baptista-78562311b/)](https://www.linkedin.com/in/izaac-baptista-78562311b/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+47+991976600&text=Hello!)](https://api.whatsapp.com/send?phone=55+47+992054264&text=Hello!)
@@ -15,12 +16,11 @@ Here are some ideas to get you started:
 ## 🛠 Tech Stack
 
 <div style="display: inline_block"><br>
- <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
- <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+ <img width="25px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ <img width="25px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img width="25px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img width="25px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img width="25px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 </div>
 
 
