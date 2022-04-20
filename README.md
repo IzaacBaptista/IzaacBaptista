@@ -36,10 +36,4 @@
   <a href="https://github.com/IzaacBaptista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzaacBaptista&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaacBaptista&layout=compact&langs_count=6&theme=dark"/>
-  
 </div>
- 
-## Projects
- <div align="center">
-   - [Projeto gerador de citações ou frases aleatórias](https://izaacbaptista.github.io/gerador-de-frases-aleatorias/)
- </div>
