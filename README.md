@@ -10,6 +10,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izaac-baptista-78562311b/)](https://www.linkedin.com/in/izaac-baptista-78562311b/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+47+991976600&text=Hello!)](https://api.whatsapp.com/send?phone=55+47+992054264&text=Hello!)
+[![FreeCodeCamp](https://img.shields.io/badge/instagram-%23123.svg?style=flat&logo=appveyor&logo=instagram&logoColor=green&link=https://https://www.instagram.com/developper_js/)](https://www.freecodecamp.org/izaacbaptista)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:izaacbaptista@gmail.com)](mailto:izaacbaptista@gmail.com)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?style=flat&logo=appveyor&logo=freecodecamp&logoColor=green&link=https://www.freecodecamp.org/izaacbaptista)](https://www.freecodecamp.org/izaacbaptista)
 
