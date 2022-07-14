@@ -2,7 +2,8 @@
 ## 👨🏻‍💻 About me 
 #### Here are some ideas to get you started:
 
-- 🔭 I’m a student of systems analysis and development
+- 🔭 I’m a study of postgraduate in software engineering and architecture
+- 🎓 I’m graduated in systems analysis and development
 - 🌱 I’m currently learning PHP and Javscript
 - :rainbow: I'm interests on DevOps (tools, lifecycle and culture)
 - :man_technologist: I intend to be a fullstack web developer
