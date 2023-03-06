@@ -15,7 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:izaacbaptista@gmail.com)](mailto:izaacbaptista@gmail.com)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?style=flat&logo=appveyor&logo=freecodecamp&logoColor=green&link=https://www.freecodecamp.org/izaacbaptista)](https://www.freecodecamp.org/izaacbaptista)
 
-## Devops - DBA - Backend - API
+## Devops - DBA
 
 <div style="display: inline_block">
  <img width="35px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -25,12 +25,19 @@
  <img width="35px" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
  <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+ </div>
+
+## Backend - API
+
+<div style="display: inline_block">
  <img width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
  <img width="40px" align="center"  src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">
  <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img width="35px" align="center" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" />
+ <img width="35px" align="center" src="https://github.com/altair-graphql/altair/blob/master/icons/android-icon-192x192.png" />
  <img width="35px" align="center" src="https://avatars.githubusercontent.com/u/10251060?v=4" />
+ <img width="35px" align="center" src="https://user-images.githubusercontent.com/6686410/31217465-6adbbd18-a98d-11e7-9371-26d578182e9d.png" />
  <img width="35px" align="center" src="https://avatars.githubusercontent.com/u/7658037?v=4" />
 </div>
 
