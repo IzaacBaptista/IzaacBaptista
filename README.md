@@ -4,7 +4,7 @@
 
 - 🔭 I’m a study of postgraduate in software engineering and architecture
 - 🎓 I’m graduated in systems analysis and development
-- 🌱 I’m currently learning PHP and Javscript
+- 🌱 I’m currently learning PHP and Javscript and SQL
 - :rainbow: I'm interests on DevOps (tools, lifecycle and culture)
 - :man_technologist: I intend to be a fullstack web developer
 - Portfólio de projetos: https://izaacbaptista.github.io/Portfolio-projetos/
@@ -57,5 +57,5 @@
 <div align="center">
   <a href="https://github.com/IzaacBaptista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzaacBaptista&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaacBaptista&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaacBaptista&layout=compact&langs_count=8&theme=dark"/>
 </div>
