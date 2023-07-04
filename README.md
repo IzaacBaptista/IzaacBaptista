@@ -41,7 +41,7 @@
  <img width="35px" align="center" src="https://avatars.githubusercontent.com/u/7658037?v=4" />
 </div>
 
-## Frontend - QA
+## Frontend
 <div style="display: inline_block">
  <img width="40px" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
  <img width="40px" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -50,7 +50,12 @@
  <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img width="35px" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
  <img width="40px" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+</div>
+
+## QA
+<div style="display: inline_block">
  <img width="60px" align="center" src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" />
+ <img width="40px" align="center" src="https://avatars.githubusercontent.com/u/103283236?s=48&v=4" />
 </div>
 
 ## Status
