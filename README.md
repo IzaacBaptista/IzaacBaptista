@@ -54,8 +54,8 @@
 
 ## QA
 <div style="display: inline_block">
- <img width="60px" align="center" src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" />
- <img width="40px" align="center" src="https://avatars.githubusercontent.com/u/103283236?s=48&v=4" />
+ <img width="40px" align="center" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/cypress.svg" />
+ <img width="30px" align="center" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/jest.svg" />
 </div>
 
 ## Status
