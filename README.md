@@ -37,6 +37,7 @@
  <img width="40px" align="center" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">
  <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img width="30px" align="center" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" /> 
  <img width="35px" align="center" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" />
  <img width="35px" align="center" src="https://github.com/altair-graphql/altair/blob/master/icons/android-icon-192x192.png" />
  <img width="35px" align="center" src="https://avatars.githubusercontent.com/u/10251060?v=4" />
