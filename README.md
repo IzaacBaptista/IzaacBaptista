@@ -8,6 +8,8 @@
 - :rainbow: I'm interests on DevOps (tools, lifecycle and culture)
 - :man_technologist: I intend to be a fullstack web developer
 - Portfólio de projetos: https://izaacbaptista.github.io/Portfolio-projetos/
+- Blog: https://www.blogcodigosimples.com.br/
+- Artigos: https://dev.to/izaaccomze
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izaac-baptista-78562311b/)](https://www.linkedin.com/in/izaac-baptista-78562311b/)
@@ -28,7 +30,7 @@
  <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  <img width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
  <img width="30px" align="center" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" />
- </div>
+</div>
 
 ## Backend - API
 
