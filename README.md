@@ -4,7 +4,7 @@
 
 - 🔭 I’m a study of postgraduate in software engineering and architecture
 - 🎓 I’m graduated in systems analysis and development
-- 🌱 I’m currently learning PHP and Javscript and SQL
+- 🌱 I’m currently learning PHP, Java, Python,Javascript and SQL
 - :rainbow: I'm interests on DevOps (tools, lifecycle and culture)
 - :man_technologist: I intend to be a fullstack web developer
 - Portfólio de projetos: https://izaacbaptista.github.io/Portfolio-projetos/
