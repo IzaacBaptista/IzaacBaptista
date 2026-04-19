@@ -5,7 +5,8 @@
 **Software Engineer & Architect**
 
 Construindo sistemas de agentes AI e plataformas SaaS.  
-Pós-graduando em Engenharia de Software e Arquitetura.
+Pós-graduado em Arquitetura e Engenharia de Software.
+MBA em Gestão de Projetos de TI e Metodologias Ágeis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izaac-baptista-78562311b/)
 [![Blog](https://img.shields.io/badge/Blog-blogcodigosimples.com.br-111827?style=flat-square&logo=rss&logoColor=white)](https://www.blogcodigosimples.com.br/)
