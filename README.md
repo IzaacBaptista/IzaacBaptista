@@ -10,7 +10,6 @@ MBA em Gestão de Projetos de TI e Metodologias Ágeis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izaac-baptista-78562311b/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/izaaccomze)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ver%20projetos-6366F1?style=flat-square)](https://izaacbaptista.github.io/Portfolio-projetos/)
 
 </div>
 
